@@ -1,11 +1,11 @@
-# GitHub + Git workshop 2023
+\# GitHub + Git workshop 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
 [^credits]: This repository was originally created for [USC's Intro to Health Data Science](https://github.com/USCbiostats/PM566-whoami).
 
 ```md
-[**@your username**](the URL to your profile) something about you
+[**@your username**](the URL to your profile) I love slc
 ```
 
 For example, this is what I did with mine:
@@ -23,43 +23,56 @@ Look for your name and add a link to your Github profile and something about
 yourself (that you don't mind publicly sharing). Remember to modify the line only with your
 Name!
 
+
 # GitHub + Git Workshop Attendees (2023)
 
-Brian
+ 
+Brian (https://github.com/reblocke) My first program language was C but I couldn't write a functioning program now if my life dependended on it. 
 
-Kia
+Kia @ Github.com/PianoDevOps
 
-Bradley
+Bradley -- In college I double-majored in Studio Art and Biology.
 
 Stephanie
 
-Madison
+Madison:[**@Madison-Wiffler**] I have two cats :)
 
 Kailey
-
+```md
+[**@kjmahoney23**](https://github.com/kjmahoney23) I grew up in Denver, Colorado. I studied environmental science in undergrad. 
+```
 Jacob
 
 Usman
 
-Caden
+[**@stewacad000**](https://github.com/stewacad000) I have a big fluffy white dog named Geo, and we have howling conversations
 
-Selena
+Selena - ![alt text](selenaPIC.jpg)   **add me at selena.cho@utah.edu :) <3**
 
-Nooshin
+Nooshin : I am Ph.D. student in Mechanical Engineering :)
 
 Katharine
 
-Selena
+Selena - *There's two of me* **OOPS**
 
-Cecilia
+Cecilia - I like photograpy
 
 Fatemeh
 
 Casey
 
-Jace
+Jace: Originally from Nevada.
 
 Kramer
+
+[**@Guanqun**](https://github.com/MaGuanqun) I love hiking, want to try skiing!
+
+Hannah [**@hannah-happ**](https://github.com/hannah-happ) I love genetics and snacks
+
+Nika [**@RNAdork**](https://github.com/RNAdork)
+<img 
+src="https://media.licdn.com/dms/image/C5603AQFZKattbUEXtA/profile-displayphoto-shrink_800_800/0/1609879959497?e=2147483647&v=beta&t=0LBYm9j8lIzwAneU4pOADxH4EnHrufXi0hWHNgSwzMA" 
+alt="Image of Nika" width="40px">
 
 # GitHub + Git 2023 instructors
 
@@ -69,6 +82,8 @@ This is another line of code.
 
 Rebecca
 
-Linda
+Linda I take pleasure in assisting during the DELPHI workshops. 
 
---- Ransmond
+
+[**@rberch](https://github.com/rberch) I am enjoying this programming!
+
