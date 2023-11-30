@@ -1,4 +1,4 @@
-\# GitHub + Git workshop 2023
+# GitHub + Git workshop 2023
 
 You need to make a fork of this repository[^credits], find your name in the list below, and replace it with something like:
 
